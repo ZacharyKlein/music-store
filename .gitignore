@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+/web-app/WEB-INF/classes
+/prodDb.*
+*Db.properties
+*Db.script
+/stacktrace.log
+/test/reports
+/logs
+/*.war
+/*.zip
+/*.iml
+/plugin.xml
+/plugins
+/web-app/plugins
+/target
+.gradle
+/build/
+gradle-app.setting
+.gradletasknamecache
